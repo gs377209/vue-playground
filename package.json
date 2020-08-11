@@ -1,0 +1,25 @@
+{
+  "name": "vue-playground",
+  "version": "1.0.0",
+  "description": "Messing with Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs377209/vue-playground.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Gerrod Schirtzinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gs377209/vue-playground/issues"
+  },
+  "homepage": "https://github.com/gs377209/vue-playground#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
