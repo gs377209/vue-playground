@@ -1,5 +1,7 @@
 # vue-playground
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bd2e3ce-af38-4a48-b138-91787e63d81f/deploy-status)](https://app.netlify.com/sites/clever-agnesi-c64859/deploys)
+
 Messing with Vue
 
 ## Project setup
