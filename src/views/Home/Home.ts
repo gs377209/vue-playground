@@ -3,7 +3,7 @@ import { HelloWorld } from "@/components"; // @ is an alias to /src
 
 @Component({
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+  },
 })
 export default class Home extends Vue {}
